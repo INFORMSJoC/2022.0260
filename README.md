@@ -20,7 +20,7 @@ author = { A. Aghasi and A. Rai and Y. Xia },
 publisher = {INFORMS Journal on Computing},
 title = {{ObjCh} Version v2022.0260},
 year = {2022},
-doi = {10.5281/zenodo.7348935},
+doi = {10.5281/zenodo.8301733},
 url = {https://github.com/INFORMSJoC/2022.0260},
 }
 
