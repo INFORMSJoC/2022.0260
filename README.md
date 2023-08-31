@@ -19,7 +19,7 @@ Below is the BibTex for citing this version of the repository.
 author = { A. Aghasi and A. Rai and Y. Xia },
 publisher = {INFORMS Journal on Computing},
 title = {{ObjCh} Version v2022.0260},
-year = {2022},
+year = {2023},
 doi = {10.5281/zenodo.8301733},
 url = {https://github.com/INFORMSJoC/2022.0260},
 }
