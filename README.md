@@ -10,8 +10,11 @@ A. Rai and Y. Xia.
 
 ## Cite
 
-To cite this software, please cite the paper using its DOI and the software itself, using the
-following DOI.
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
+https://doi.org/10.1287/ijoc.2022.0260
+
+https://doi.org/10.1287/ijoc.2022.0260.cd
 
 Below is the BibTex for citing this version of the repository.
 ```
