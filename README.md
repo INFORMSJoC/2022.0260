@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Data for the Empirical Analysis of the Paper [A Deep Learning and Image ProcessingPipeline for Object Characterization in Firm Operations].
+# Data and Code for the Paper "A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations".
 
 This archive is distributed in association with the [INFORMS Journal on Computing] under the [MIT License](LICENSE).
 
@@ -10,18 +10,21 @@ A. Rai and Y. Xia.
 
 ## Cite
 
-To cite this software, please cite the paper using its DOI and the software itself, using the
-following DOI.
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
+https://doi.org/10.1287/ijoc.2022.0260
+
+https://doi.org/10.1287/ijoc.2022.0260.cd
 
 Below is the BibTex for citing this version of the repository.
 ```
-@article{ObjCh,
-author = { A. Aghasi and A. Rai and Y. Xia },
-publisher = {INFORMS Journal on Computing},
-title = {{ObjCh} Version v2022.0260},
-year = {2023},
-doi = {10.5281/zenodo.8301733},
-url = {https://github.com/INFORMSJoC/2022.0260},
+@article{Aghasi2023Deep,
+                author = {Aghasi, Alireza and Rai, Arun and Xia, Yusen},
+                publisher = {INFORMS Journal on Computing},
+                title = {A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations},
+                year = {2023},
+                doi = {10.1287/ijoc.2022.0260.cd},
+                url = {Available for download at https://github.com/INFORMSJoC/2022.0260},
 }
 
 ```
