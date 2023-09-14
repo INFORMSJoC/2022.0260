@@ -24,9 +24,8 @@ Below is the BibTex for citing this version of the repository.
                 title = {A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations},
                 year = {2023},
                 doi = {10.1287/ijoc.2022.0260.cd},
-                url = {Available for download at https://github.com/INFORMSJoC/2022.0260},
+                note = {Available for download at https://github.com/INFORMSJoC/2022.0260},
 }
-
 ```
 --------------------------------------------------------------------------
 ## Code and Datasets:
