@@ -18,7 +18,7 @@ https://doi.org/10.1287/ijoc.2022.0260.cd
 
 Below is the BibTex for citing this version of the repository.
 ```
-@article{Aghasi2023Deep,
+@misc{Aghasi2023Deep,
                 author = {Aghasi, Alireza and Rai, Arun and Xia, Yusen},
                 publisher = {INFORMS Journal on Computing},
                 title = {A Deep Learning and Image Processing Pipeline for Object Characterization in Firm Operations},
